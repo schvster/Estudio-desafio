@@ -1,0 +1,56 @@
+.featured.mdl-card {
+    width: 100%;
+    height: 256px;
+    background: url('https://1.bp.blogspot.com/-8K4-yNc1wGA/XXuwHk_q8EI/AAAAAAAAWPA/KKQRkLJkq8kxRa-tMNOOSR12l68WxWN-ACLcBGAsYHQ/s1600/parasite%2Bmovie.png') center / cover;
+    }
+
+.bt {
+    float: right;
+    font-weight: bold;
+}
+
+.bt-2 {
+    margin-top: 11px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.bt-3{
+    font-size: 16px;
+    font-weight: bold;
+    float: right;
+}
+.filmes {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 11px;
+    margin-bottom: 20px;
+}
+
+
+.mdl-card-1 {
+    width: 120px;
+    height: 214px;
+    display: inline-block;
+
+}
+.mdl-card__media {
+    margin: 0;
+    height: 180px;
+}
+.mdl-card__media > img {
+    max-width: 100%;
+    height: 180px;
+}
+
+.mdl-card__title-1 {
+    background: rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    padding: 8px;
+}
+
+.mdl-card__title-text {
+    font-size: 16px;
+}
